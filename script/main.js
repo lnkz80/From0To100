@@ -2,7 +2,10 @@
 
 //1. "Сколько фильмов Вы уже посмотрели?"
 
-let numberOfFilms = prompt("Сколько фильмов Вы уже посмотрели?");
+let numberOfFilms = +prompt(
+  "Сколько фильмов Вы уже посмотрели?",
+  "Введите число"
+);
 
 //2. Create object "personalMovieDB"
 
