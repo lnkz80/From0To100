@@ -1,16 +1,7 @@
-// let i = 1;
+"use_strict";
 
-// while (i < 5) {
-//   console.log(i);
-//   i++;
-// }
+// const wrd = "Burning in the skies";
+// const wrdLngt = wrd.length;
 
-
-// for (let i = 0; i < 100; i = i + 10){
-
-//   if (i===50){
-//     continue;
-//   }
-//   console.log(i);
-// }
+// console.log(wrd.slice(9, wrdLngt - 2));
 
